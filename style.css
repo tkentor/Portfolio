@@ -1,0 +1,43 @@
+h1 {
+		text-align: center;
+		color: rgba(130, 75, 200, 1);
+		font-family: "arial black";
+	}
+	header {
+			text-align: center;
+			font-family: "arial black";
+		}
+		body {
+			text-align: justify;
+			padding-left: 50px;
+			padding-right: 50px;
+			padding-top: 25px;
+			background: url("http://i.imgur.com/GZHeWrk.jpg");
+			background-size: cover;
+			background-position: left;
+			color: white;
+			font-weight: bold;
+			font-family: georgia;
+			margin: 0 auto;
+			margin-bottom: 700px;
+			max-width: 1000px;
+			min-width: 500px;
+		}
+		.contact {
+			text-align: center;
+			font-size: 25px;
+			font-weight: bold;
+			margin-bottom: 75px;
+		}
+		a {
+			color: rgba(130, 75, 200, 1);
+			font-weight: bold;
+		}
+		img {
+			border: 10px solid rgba(130, 75, 200, 1);
+			border-radius: 20px;
+			margin-bottom: 10px;
+		}
+		li {
+			list-style-type: none;
+		}

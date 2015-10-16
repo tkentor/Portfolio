@@ -1,0 +1,37 @@
+body{
+  font-family: "Avenir Next";
+  text-align: justify;
+  margin: 50px 50px 50px 50px;
+  line-height: 1.0;
+}
+ul{
+  margin: 8px 0 0 0;
+}
+h1{
+  text-align: center;
+}
+#busName{
+  font-weight: bold;
+}
+#dates{
+  display: inline-block;
+  float: right;
+}
+#busTitle{
+  font-style: italic;
+  display: inline-block;
+}
+#experience{
+  font-weight: bold;
+  text-decoration: underline;
+}
+#bullets{
+    padding-left: 5px;
+    padding-right: 40px;
+}
+#fdp{
+    padding-left: 15px;
+    padding-right: 40px;
+    font-size: 14px;
+    margin: 15px 0 10px 0;
+}
